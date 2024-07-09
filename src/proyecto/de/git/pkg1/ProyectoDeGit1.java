@@ -10,6 +10,11 @@ public class ProyectoDeGit1 {
         for (int i = 0; i < 10; i++) { 
             System.out.println(i);
         }
+        //esto es otro ciclo de prueba
+        for (int i = 0; i < 5; i++) {
+            System.out.println("bachillerato");
+        }
     }
+   
     
 }
